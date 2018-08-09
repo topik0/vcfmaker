@@ -2,5 +2,6 @@ BEGIN:VCARD
 VERSION:2.1
 N:Miller;Daniel;;;
 FN:Daniel Miller
-TEL;home:312-049230TEL;work:103294120
+TEL;skip:skiop
+
 END:VCARD
